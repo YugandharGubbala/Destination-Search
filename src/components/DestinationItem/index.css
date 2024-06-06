@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.item{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 8px;
+}
+p{
+    font-size: 25px;
+    font-weight: 300;
+}

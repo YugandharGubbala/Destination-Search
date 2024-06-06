@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.container2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.imgandsearch {
+  display: flex;
+  flex-direction: row;
+}
+.inputbox {
+  background-color: #f1f5f9;
+  height: 50px;
+  width: 220px;
+  border-radius: 9px;
+  border-width: 0px;
+}
+.searchimg {
+  height: 50px;
+  width: 50px;
+  background-color: #f1f5f9;
+}
+.heading {
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'roboto';
+  padding-bottom: 20px;
+}
+.line{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
